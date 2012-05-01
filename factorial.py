@@ -2,7 +2,7 @@
 
 num = int(input('Enter a number:'))
 
-fact = 1
+fact = 1.0
 for i in range(num, 0, -1):
 	fact = fact * i
 
